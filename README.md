@@ -1,6 +1,11 @@
+![Demo Overview](./assets/images/demo1.jpg)
 # @wusandwitch/notion-markdown-toc-react
 
 A beautiful and customizable Table of Contents component for React, perfect for markdown content. Inspired by Notion's elegant design.
+
+## 🎬 Demo
+
+![Demo Animation](./assets/videos/demo.gif)
 
 ## Features
 
@@ -23,7 +28,7 @@ npm install @wusandwitch/notion-markdown-toc-react framer-motion
 yarn add @wusandwitch/notion-markdown-toc-react framer-motion
 ```
 
-## Usage
+## 🚀 Quick Start
 
 ### Basic Usage
 
@@ -91,6 +96,14 @@ function MyPage() {
   )
 }
 ```
+
+## 📊 Live Examples
+
+The component supports multiple themes and configurations:
+
+| Light Theme | Dark Theme |
+|-------------|------------|
+| ![Light Theme](./assets/images/demo-light-theme.png) | ![Dark Theme](./assets/images/demo-dark-theme.png) |
 
 ## API Reference
 

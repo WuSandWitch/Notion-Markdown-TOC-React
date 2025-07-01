@@ -49,4 +49,9 @@ coverage/
 
 # Temporary folders
 tmp/
-temp/ 
+temp/
+
+# Demo and development files
+demo/
+simple-demo/
+*demo*/ 

@@ -285,7 +285,7 @@ export function TableOfContents({
                   <button
                     key={item.id}
                     onClick={() => scrollToHeading(item.id)}
-                    style={{
+                    style={{ 
                       display: 'block',
                       width: '100%',
                       textAlign: 'left',
@@ -325,7 +325,7 @@ export function TableOfContents({
                       }
                     }}
                   >
-                    {item.text}
+                      {item.text}
                   </button>
                 ))}
               </nav>
