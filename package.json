@@ -1,6 +1,6 @@
 {
   "name": "@wusandwitch/notion-markdown-toc-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A beautiful and customizable Table of Contents component for React, perfect for markdown content",
   "type": "module",
   "main": "dist/index.cjs.js",
