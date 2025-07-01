@@ -1,0 +1,58 @@
+{
+  "name": "@wusandwitch/notion-markdown-toc-react",
+  "version": "1.0.0",
+  "description": "A beautiful and customizable Table of Contents component for React, perfect for markdown content",
+  "type": "module",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w",
+    "prepare": "npm run build",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "react",
+    "table-of-contents",
+    "toc",
+    "markdown",
+    "navigation",
+    "framer-motion",
+    "typescript",
+    "notion"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/notion-toc-react.git"
+  },
+  "homepage": "https://github.com/yourusername/notion-toc-react#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/notion-toc-react/issues"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0",
+    "framer-motion": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "^11.1.5",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.16.16",
+    "rollup": "^4.9.1",
+    "rollup-plugin-dts": "^6.1.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "tslib": "^2.6.2",
+    "typescript": "^5.3.3"
+  }
+} 

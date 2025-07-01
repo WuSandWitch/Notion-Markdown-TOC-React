@@ -1,0 +1,17 @@
+src/
+*.ts
+*.tsx
+!dist/
+node_modules/
+.git/
+.gitignore
+rollup.config.js
+tsconfig.json
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log* 
