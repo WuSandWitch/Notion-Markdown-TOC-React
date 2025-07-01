@@ -96,15 +96,6 @@ function MyPage() {
   )
 }
 ```
-
-## 📊 Live Examples
-
-The component supports multiple themes and configurations:
-
-| Light Theme | Dark Theme |
-|-------------|------------|
-| ![Light Theme](./assets/images/demo-light-theme.png) | ![Dark Theme](./assets/images/demo-dark-theme.png) |
-
 ## API Reference
 
 ### Props

@@ -29,11 +29,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/notion-toc-react.git"
+    "url": "https://github.com/WuSandWitch/Notion-Markdown-TOC-React.git"
   },
-  "homepage": "https://github.com/yourusername/notion-toc-react#readme",
+  "homepage": "https://github.com/WuSandWitch/Notion-Markdown-TOC-React#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/notion-toc-react/issues"
+    "url": "https://github.com/WuSandWitch/Notion-Markdown-TOC-React/issues"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
